@@ -37,7 +37,3 @@ This project is licensed under the [CC0 1.0 Universal](LICENSE.md) - see the LIC
 ## Contact
 
 (TODO: Add contact information for project maintainers or a link to the project's website.)
-
----
-
-This `README.md` provides a basic framework for your project documentation. As the project evolves, you should update the README to reflect new features, changes, and improvements.
