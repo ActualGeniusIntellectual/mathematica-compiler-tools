@@ -1,8 +1,8 @@
-# Rusty Mathematica
+# Rustica
 
 ## Introduction
 
-Rusty Mathematica is an ambitious project aimed at interpreting and executing a subset of Mathematica syntax using the power and efficiency of Rust. The project's goal is to create a robust, high-performance interpreter that not only handles basic Mathematica computations but also supports custom function extensions. This opens the door to integrating Rust's capabilities with Mathematica's powerful computational tools.
+Rustica is an ambitious project aimed at interpreting and executing a subset of Mathematica syntax using the power and efficiency of Rust. The project's goal is to create a robust, high-performance interpreter that not only handles basic Mathematica computations but also supports custom function extensions. This opens the door to integrating Rust's capabilities with Mathematica's powerful computational tools.
 
 ## Goals
 
@@ -26,9 +26,13 @@ Rusty Mathematica is an ambitious project aimed at interpreting and executing a 
 
 (TODO: Provide examples and detailed instructions on how to use the interpreter, including how to run Mathematica syntax scripts.)
 
+## Documentation
+
+[Implementation Details](docs/implementation.md) - This document provides an overview of the implementation details of the Rustica interpreter, including the supported syntax and functions.
+
 ## Contributing
 
-Contributions to the Rusty Mathematica project are welcome! Whether it's adding new features, fixing bugs, or improving documentation, your help is appreciated. Please read `CONTRIBUTING.md` for details on our code of conduct and the process for submitting pull requests.
+Contributions to the Rustica project are welcome! Whether it's adding new features, fixing bugs, or improving documentation, your help is appreciated. Please read `CONTRIBUTING.md` for details on our code of conduct and the process for submitting pull requests.
 
 ## License
 
